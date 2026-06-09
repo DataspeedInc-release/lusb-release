@@ -1,3 +1,26 @@
+## lusb (jazzy) - 2.0.3-1
+
+The packages in the `lusb` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release --ros-distro jazzy lusb` on `Tue, 09 Jun 2026 16:10:10 -0000`
+
+The `lusb` package was released.
+
+Version of package(s) in repository `lusb`:
+
+- upstream repository: https://bitbucket.org/dataspeedinc/lusb
+- release repository: https://github.com/DataspeedInc-release/lusb-release.git
+- rosdistro version: `2.0.2-1`
+- old version: `2.0.2-1`
+- new version: `2.0.3-1`
+
+Versions of tools used:
+
+- bloom version: `0.14.3`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## lusb (jazzy) - 2.0.2-1
 
 The packages in the `lusb` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release lusb --rosdistro jazzy` on `Thu, 25 Jul 2024 18:02:23 -0000`
