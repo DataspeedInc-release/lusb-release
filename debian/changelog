@@ -1,0 +1,32 @@
+ros-lyrical-lusb (2.0.3-1resolute) resolute; urgency=high
+
+  * ROS Lyrical: C++20, CMake 3.22 minimum
+  * Contributors: Kevin Hallenbeck
+
+ -- "Kevin Hallenbeck" <khallenbeck@dataspeedinc.com>  Thu, 28 May 2026 04:00:00 -0000
+
+ros-lyrical-lusb (2.0.2-1resolute) resolute; urgency=high
+
+  * Fix include
+  * Contributors: Kevin Hallenbeck
+
+ -- "Kevin Hallenbeck" <khallenbeck@dataspeedinc.com>  Thu, 13 Jun 2024 04:00:00 -0000
+
+ros-lyrical-lusb (2.0.1-1resolute) resolute; urgency=high
+
+  * Add README and example
+  * Fix cmake problems and update for best practices
+  * Add pkg-config build dependency
+  * Contributors: Kevin Hallenbeck
+
+ -- "Kevin Hallenbeck" <khallenbeck@dataspeedinc.com>  Wed, 09 Feb 2022 05:00:00 -0000
+
+ros-lyrical-lusb (2.0.0-1resolute) resolute; urgency=high
+
+  * Initial ROS2 release
+  * Use std instead of boost
+  * Contributors: Kevin Hallenbeck
+
+ -- "Kevin Hallenbeck" <khallenbeck@dataspeedinc.com>  Fri, 29 Oct 2021 04:00:00 -0000
+
+
