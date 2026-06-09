@@ -2,6 +2,11 @@
 Changelog for package lusb
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.0.3 (2026-05-28)
+------------------
+* ROS Lyrical: C++20, CMake 3.22 minimum
+* Contributors: Kevin Hallenbeck
+
 2.0.2 (2024-06-13)
 ------------------
 * Fix include
